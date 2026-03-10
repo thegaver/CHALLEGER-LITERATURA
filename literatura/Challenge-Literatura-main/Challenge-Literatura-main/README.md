@@ -42,7 +42,7 @@ Maven (normalmente IntelliJ lo incluye)
 
 **ChallengeLiteraturaApplication.java**
 
-Ejecutar la aplicación presionando:
+4. Ejecutar la aplicación presionando:
 
 Run ▶
 
